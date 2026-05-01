@@ -1,0 +1,27 @@
+[FEN "8/2nB4/6P1/8/KNQ2bR1/p7/q6r/7k w - - 0 1"]
+
+1. Qxa2 Rxa2
+2. Rxf4 Nd5
+3. Rh4+ Kg2
+4. Rg4+ Kh3
+5. Rg5+ Kh4
+6. Rxd5 Rg2
+7. Be8 Rxg6
+8. Bxg6 Kg4
+9. Nd3 Kf3
+10. Bh5+ Ke3
+11. Bg6 Kd2
+12. Nf2+ Ke2
+13. Rf5 Ke3
+14. Bh5 Kd4
+15. Ng4 a2
+16. Rf1 Ke4
+17. Nf2+ Ke3
+18. Ka3 a1=Q+
+19. Rxa1 Kxf2
+20. Bd1 Ke1
+21. Bc2+ Kd2
+22. Ra2 Kc1
+23. Bb3 Kb1
+24. Rc2 Ka1
+25. Rc1# 

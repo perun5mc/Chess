@@ -1,0 +1,34 @@
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e5
+2. f4 exf4
+3. g4 fxg3
+4. hxg3 d5
+5. exd5 c5
+6. dxc6 b5
+7. c7 Qxc7
+8. d4 b4
+9. d5 b3
+10. d6 Qxd6
+11. cxb3 Qxd1+
+12. Kxd1 f5
+13. g4 fxg4
+14. Nf3 gxf3
+15. Bd3 f2
+16. Rf1 Kd7
+17. Rxf2 Kc7
+18. Rxf8 g5
+19. Bxh7 Rxh7
+20. Bxg5 Kc6
+21. Nc3 Kd7
+22. Nb5 Rh8
+23. Rc1 Ke6
+24. Rc5 Kd7
+25. Rf6 Ke8
+26. Rg6 Kf8
+27. Rc7 Ke8
+28. Re6+ Kf8
+29. Rce7 Nh6
+30. Bxh6+ Kg8
+31. Rd6 Bb7
+32. Rd8# 

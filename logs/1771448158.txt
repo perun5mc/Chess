@@ -1,0 +1,17 @@
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 1"]
+
+1... e5
+2. e4 f5
+3. f4 Nf6
+4. Nf3 d5
+5. exd5 Nxd5
+6. Nd4 exd4
+7. c4 dxc3
+8. dxc3 Nxc3
+9. bxc3 Qxd1+
+10. Kxd1 Nc6
+11. Na3 Nb8
+12. Nb1 Nc6
+13. Na3 Nb8
+14. Nb1 Nc6
+15. Na3 

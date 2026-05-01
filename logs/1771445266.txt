@@ -1,0 +1,15 @@
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 e5
+2. f4 f5
+3. g4 fxg4
+4. h4 gxh3
+5. Rxh3 a6
+6. Qh5+ Ke7
+7. Bc4 a5
+8. Qf7+ Kd6
+9. Qd5+ Ke7
+10. d3 a4
+11. fxe5 b6
+12. Bg5+ Ke8
+13. Qf7# 
